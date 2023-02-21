@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/how-accurate-prod/static/js/main.06c2f0ec.js",
+    "main.js": "/how-accurate-prod/static/js/main.c41c2c39.js",
     "index.html": "/how-accurate-prod/index.html",
-    "main.06c2f0ec.js.map": "/how-accurate-prod/static/js/main.06c2f0ec.js.map"
+    "main.c41c2c39.js.map": "/how-accurate-prod/static/js/main.c41c2c39.js.map"
   },
   "entrypoints": [
-    "static/js/main.06c2f0ec.js"
+    "static/js/main.c41c2c39.js"
   ]
 }
