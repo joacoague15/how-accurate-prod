@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/how-accurate-prod/static/js/main.fae7ec46.js",
+    "main.css": "/how-accurate-prod/static/css/main.3d849dfc.css",
+    "main.js": "/how-accurate-prod/static/js/main.fca72663.js",
     "index.html": "/how-accurate-prod/index.html",
-    "main.fae7ec46.js.map": "/how-accurate-prod/static/js/main.fae7ec46.js.map"
+    "main.3d849dfc.css.map": "/how-accurate-prod/static/css/main.3d849dfc.css.map",
+    "main.fca72663.js.map": "/how-accurate-prod/static/js/main.fca72663.js.map"
   },
   "entrypoints": [
-    "static/js/main.fae7ec46.js"
+    "static/css/main.3d849dfc.css",
+    "static/js/main.fca72663.js"
   ]
 }
